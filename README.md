@@ -3,7 +3,7 @@
 A BepInEx mod for Gorilla Tag that adds Minecraft styled nametags above player's heads
 
 ## Installation
-1. Download the latest `MinecraftNametags.dll` from the [Releases page](https://github.com/struuct/LegacyMic/releases)
+1. Download the latest `MinecraftNametags.dll` from the [Releases page](https://github.com/struuct/MinecraftNametags/releases)
 2. Place the `MinecraftNametags.dll` file in your `BepInEx/plugins` folder
 3. Launch the game, when you join a room, all players should have the minecraft nametags above them
 
