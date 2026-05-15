@@ -1,4 +1,4 @@
-![image thing](Icon.png)
+![image thing](Screenshot.png)
 # MinecraftNametags
 A BepInEx mod for Gorilla Tag that adds Minecraft styled nametags above player's heads
 
